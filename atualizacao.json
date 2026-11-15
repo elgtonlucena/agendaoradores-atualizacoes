@@ -1,0 +1,19 @@
+{
+  "versao": "1.0.0",
+  "minima": "1.0.0",
+  "publicada": "2026-11-15",
+  "novidades": [
+    "Primeira versão instalável da Agenda de Oradores.",
+    "Atualizações automáticas: o app avisa quando uma versão nova estiver pronta."
+  ],
+  "macos": {
+    "url": "https://github.com/elgtonlucena/agendaoradores-atualizacoes/releases/download/v1.0.0/Agenda-de-Oradores-1.0.0-macos.zip",
+    "tamanho": 24951773,
+    "sha256": "a3e5ed6fadbe4c384e05d3fa608884c98d0a82e7e4520789e7851899274a5608"
+  },
+  "windows": {
+    "url": "https://github.com/elgtonlucena/agendaoradores-atualizacoes/releases/download/v1.0.0/Agenda-de-Oradores-1.0.0-windows-setup.exe",
+    "tamanho": 15651711,
+    "sha256": "b7dff2da77b6cf9cced438c0270e9a8baad22f46bbb140f0095cb9d237c97585"
+  }
+}
